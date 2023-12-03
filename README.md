@@ -22,7 +22,7 @@ Cheat-inspired mods could be integrated as in-game items such as weapons or cons
 #
 ### LEGALITIES
 
-Common cheat codes are used in various different video games without conflicting copyright. An example of this usage is the Moon Physics cheat code in Tony Hawk's Pro Skater 2 (2000) and the Flying Cars cheat code in Grand Theft Auto 3 (2001). It's possible that Tony Hawk's Pro Skate 2 invented Moon Physics without a patent in 2000 and Grand Theft Auto 3 used it one year later, in 2001.
+Common cheat codes are used in various different video games without conflicting copyright. An example of this usage is the Moon Physics cheat code in Tony Hawk's Pro Skater 2 (2000) and the Flying Cars cheat code in Grand Theft Auto 3 (2001). It's possible that Tony Hawk's Pro Skate 2 invented Moon Physics without a patent in 2000 and then Grand Theft Auto 3 used it one year later, in 2001.
 
 A fundamental legal consideration in video game development is intellectual property protection. If a video game has an original feature, the developer can apply for a patent. 
 
